@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brage Støfringshaug
-- 👀 I’m a 22 year old man
+- 👀 I’m a 23 year old man
 - 🏫 I’m currently studying for my bachelor in information science at the University of Bergen.
 - 📍 Located in Bergen, Norway
 
