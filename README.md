@@ -2,9 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2744,100:0d1117&height=120&section=header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=2500&pause=999999&color=6EA8FE&center=true&vCenter=true&repeat=false&width=700&height=72&lines=Brage+St%C3%B8fringshaug" alt="Brage Støfringshaug" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2000&pause=1000&color=66FF6F&repeat=false&width=435&lines=Brage+St%C3%B8fringshaug" alt="Typing SVG" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=500&pause=999999&color=94A3B8&center=true&vCenter=true&repeat=false&width=700&height=32&lines=BSc+Information+Science+%E2%80%A2+University+of+Bergen" alt="Degree" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=15&duration=500&pause=999999&color=94A3B8&center=true&vCenter=true&repeat=false&width=700&height=32&lines=BSc+Information+Science+%E2%80%A2+University+of+Bergen" alt="Degree" />
 
 <br/>
 
