@@ -8,11 +8,11 @@
 
 <br/>
 
-![Location](https://img.shields.io/badge/%F0%9F%93%8D%20Bergen%2C%20Norway-1a2744?style=flat-square&logoColor=white)
+![Location](https://img.shields.io/badge/Bergen%2C%20Norway-21262d?style=flat-square&logo=googlemaps&logoColor=white)
 &nbsp;
-![Age](https://img.shields.io/badge/%F0%9F%91%A4%2023%20years%20old-1a2744?style=flat-square&logoColor=white)
+![Age](https://img.shields.io/badge/23%20years%20old-21262d?style=flat-square&logo=person&logoColor=white)
 &nbsp;
-[![Website](https://img.shields.io/badge/%F0%9F%8C%90%20bragesto.no-1a2744?style=flat-square&logoColor=white)](https://bragesto.no)
+[![Website](https://img.shields.io/badge/bragesto.no-21262d?style=flat-square&logo=safari&logoColor=white)](https://bragesto.no)
 
 <br/><br/>
 
@@ -33,25 +33,83 @@ const brage = {
 
 <div align="center">
 
-### Stack
+**Languages**
 
-![Python](https://img.shields.io/badge/Python-1a2744?style=flat-square&logo=python&logoColor=6EA8FE)
+![Python](https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=white)
 &nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-1a2744?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-21262d?style=flat-square&logo=typescript&logoColor=white)
 &nbsp;
-![Java](https://img.shields.io/badge/Java-1a2744?style=flat-square&logo=openjdk&logoColor=FF6B6B)
+![JavaScript](https://img.shields.io/badge/JavaScript-21262d?style=flat-square&logo=javascript&logoColor=white)
 &nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-1a2744?style=flat-square&logo=fastapi&logoColor=00D2A0)
+![Java](https://img.shields.io/badge/Java-21262d?style=flat-square&logo=openjdk&logoColor=white)
 &nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-1a2744?style=flat-square&logo=nextdotjs&logoColor=ffffff)
+![Kotlin](https://img.shields.io/badge/Kotlin-21262d?style=flat-square&logo=kotlin&logoColor=white)
 &nbsp;
-![Docker](https://img.shields.io/badge/Docker-1a2744?style=flat-square&logo=docker&logoColor=2496ED)
+![Swift](https://img.shields.io/badge/Swift-21262d?style=flat-square&logo=swift&logoColor=white)
+&nbsp;
+![SQL](https://img.shields.io/badge/SQL-21262d?style=flat-square&logo=postgresql&logoColor=white)
+&nbsp;
+![CSS](https://img.shields.io/badge/CSS-21262d?style=flat-square&logo=css3&logoColor=white)
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=bragestoefringshaug&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6EA8FE&icon_color=6EA8FE&text_color=94A3B8&ring_color=6EA8FE" height="150" />
+**Frontend**
+
+![React](https://img.shields.io/badge/React-21262d?style=flat-square&logo=react&logoColor=white)
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragestoefringshaug&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6EA8FE&text_color=94A3B8" height="150" />
+![React Native](https://img.shields.io/badge/React_Native-21262d?style=flat-square&logo=react&logoColor=white)
+&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-21262d?style=flat-square&logo=nextdotjs&logoColor=white)
+&nbsp;
+![Expo](https://img.shields.io/badge/Expo-21262d?style=flat-square&logo=expo&logoColor=white)
+&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-21262d?style=flat-square&logo=tailwindcss&logoColor=white)
+&nbsp;
+![PyQt5](https://img.shields.io/badge/PyQt5-21262d?style=flat-square&logo=qt&logoColor=white)
+
+<br/>
+
+**Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-21262d?style=flat-square&logo=fastapi&logoColor=white)
+&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-21262d?style=flat-square&logo=nodedotjs&logoColor=white)
+&nbsp;
+![discord.py](https://img.shields.io/badge/discord.py-21262d?style=flat-square&logo=discord&logoColor=white)
+&nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-21262d?style=flat-square&logo=opencv&logoColor=white)
+
+<br/>
+
+**Databases**
+
+![SQLite](https://img.shields.io/badge/SQLite-21262d?style=flat-square&logo=sqlite&logoColor=white)
+&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-21262d?style=flat-square&logo=mongodb&logoColor=white)
+&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-21262d?style=flat-square&logo=firebase&logoColor=white)
+
+<br/>
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-21262d?style=flat-square&logo=docker&logoColor=white)
+&nbsp;
+![Git](https://img.shields.io/badge/Git-21262d?style=flat-square&logo=git&logoColor=white)
+&nbsp;
+![Caddy](https://img.shields.io/badge/Caddy-21262d?style=flat-square&logo=caddy&logoColor=white)
+&nbsp;
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-21262d?style=flat-square&logo=raspberrypi&logoColor=white)
+
+<br/>
+
+**AI & APIs**
+
+![Claude API](https://img.shields.io/badge/Claude_API-21262d?style=flat-square&logo=anthropic&logoColor=white)
+&nbsp;
+![OpenAI](https://img.shields.io/badge/OpenAI-21262d?style=flat-square&logo=openai&logoColor=white)
+&nbsp;
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-21262d?style=flat-square&logoColor=white)
 
 </div>
 
