@@ -106,8 +106,6 @@ const brage = {
 ![Claude API](https://img.shields.io/badge/Claude_API-21262d?style=flat-square&logo=anthropic&logoColor=white)
 &nbsp;
 ![OpenAI](https://img.shields.io/badge/OpenAI-21262d?style=flat-square&logo=openai&logoColor=white)
-&nbsp;
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-21262d?style=flat-square&logoColor=white)
 
 </div>
 
