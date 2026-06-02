@@ -97,8 +97,6 @@ const brage = {
 &nbsp;
 ![Git](https://img.shields.io/badge/Git-21262d?style=flat-square&logo=git&logoColor=white)
 &nbsp;
-![Caddy](https://img.shields.io/badge/Caddy-21262d?style=flat-square&logo=caddy&logoColor=white)
-&nbsp;
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-21262d?style=flat-square&logo=raspberrypi&logoColor=white)
 
 <br/>
