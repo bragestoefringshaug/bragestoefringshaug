@@ -10,7 +10,7 @@
 
 ![Location](https://img.shields.io/badge/Bergen%2C%20Norway-21262d?style=flat-square&logo=googlemaps&logoColor=white)
 &nbsp;
-![Age](https://img.shields.io/badge/23%20years%20old-21262d?style=flat-square&logo=person&logoColor=white)
+![Age](https://img.shields.io/badge/24%20years%20old-21262d?style=flat-square&logo=person&logoColor=white)
 &nbsp;
 [![Website](https://img.shields.io/badge/bragesto.no-21262d?style=flat-square&logo=safari&logoColor=white)](https://bragesto.no)
 
