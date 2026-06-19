@@ -22,7 +22,7 @@
 
 ```js
 const brage = {
-  age:        23,
+  age:        24,
   location:   "Bergen, Norway",
   education:  "BSc Information Science @ University of Bergen",
   website:    "https://bragesto.no",
